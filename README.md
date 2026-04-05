@@ -73,3 +73,6 @@ digital-wallet-laravel/
 ## Environment Variables
 
 The `docker-compose.yml` includes all required environment variables. For local development outside Docker, copy `.env.example` to `.env` in the `backend/` directory and adjust as needed.
+
+
+![Image](https://github.com/user-attachments/assets/92de5a33-7ef5-4145-a1d7-b7e7b86c3fc3)
